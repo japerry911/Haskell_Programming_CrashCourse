@@ -22,7 +22,7 @@ n = a `div` length xs
 lastElementOne [] = 0
 lastElementOne xs = xs !! (length xs - 1)
 lastElementTwo [] = 0
-lastElementTwo xs = head (reverse xs)
+--lastElementTwo xs = head (reverse xs)
 lastElementThree [] = 0
 lastElementThree xs = last xs
 
