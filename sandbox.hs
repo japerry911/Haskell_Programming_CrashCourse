@@ -7,7 +7,7 @@
 --main = print $ doubleTwo 10
 --main = print $ productExercise [2, 3, 4]
 --main = print $ qsortReverse [1, 2, 3, 4, 5, 3, 1, 4, 9, 0]
-main = print $ qsort [2, 2, 3, 3, 1, 1]
+--main = print $ qsort [2, 2, 3, 3, 1, 1]
 
 double x = x + x
 
